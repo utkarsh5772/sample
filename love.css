@@ -1,0 +1,104 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+body{
+
+    background-color: rgb(255, 86, 114);
+}
+
+nav{
+
+
+    height: 10vh;
+    width: 1919px;
+    color: white;
+    background-color: #f0f8ff;
+}
+
+.header{
+
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+}
+.header a{
+
+    text-decoration:none;
+    list-style: none;
+    padding:25px 25px;
+    font-size: 27px;
+    color: rgb(0, 0, 0);
+   font-family: "Gill Sans Extrabold", sans-serif;
+   padding-left: 500px;
+   padding-top: 27px;
+   font-weight: bold;
+}
+.header{
+
+    margin-top: 35px;
+}
+
+.header a:hover{
+
+    color: rgb(2, 95, 175);
+}
+
+
+.om{
+
+    background-color:#f0f8ff;
+    height: 49vh;
+    width: 1000px;
+    margin-left: 386px;
+    border-radius: 45px;
+    margin-top: 70px;
+    }
+
+    .call h1{
+       padding-left: 720px;
+        font-size: 30px;
+        font-weight: 100;
+        font-weight: bold;
+        padding-top: 38px;
+    }
+
+    .om{
+
+        display: flex;
+    }
+
+    .rigth{
+
+        padding-left: 250px;
+        padding-top: 85px;
+    }
+
+
+    .left{
+      
+        padding-left: 110px;
+        padding-top: 85px;
+
+
+    }
+    
+    .gen{
+
+        padding-top: 10px;
+        margin-top: 10px;
+    }
+
+    .gel{
+
+        padding-top: 10px;
+        margin-top: 10px;
+
+    }
+
+    
+    

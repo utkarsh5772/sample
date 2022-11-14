@@ -1,0 +1,37 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    background-color:#ffd700;
+}
+
+nav{
+
+    display: inline-block;
+    background-color: black;
+    width: 1920px;
+}
+
+nav option ul li{
+    align-items: center;
+    justify-content: center;
+     display:inline-block;
+    text-decoration: none;
+    list-style: none;
+   
+}
+.option ul li{
+
+    display: inline-block;
+    padding: 25px 25px;
+    font-size: 25px;
+    color: white;
+    margin-left: 170px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight:bold;
+};
